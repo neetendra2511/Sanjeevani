@@ -12,6 +12,5 @@
   1. Used Node & express in the backend, MongoDb for the database.
   1. Used Mapbox for creating maps, nodemailer for sending mails, mongoose for modelling data, jsonwebtoken, cookie-parser for handling cookies, bcrypt for hashing password, nodemon as development dependency for running backend server.
  
- The site is live at: https://sanjeevani-avishkar-2k21.netlify.app/ 
   
  ## Thankyou :pray:
