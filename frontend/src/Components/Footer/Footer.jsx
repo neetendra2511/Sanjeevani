@@ -19,6 +19,7 @@ export default function Footer() {
             </div>
             <div className="flex-col hidden mt-2 text-center sm:flex">
                 <h3 className="text-sm font-semibold sm:text-lg md:text-xl lg:text-2xl xl:text-3xl">Creators</h3>
+                <a href="https://github.com/neetendra2511">Neetendra</a>
                 <a href="https://github.com/codechampriyanshu">Priyanshu</a>
                 <a href="https://github.com/Ashish-Verma-MNNIT">Ashish Verma</a>
                 <a href="https://github.com/ProgrammingPirates">Dharmendra</a>

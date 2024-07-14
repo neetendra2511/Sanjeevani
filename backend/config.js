@@ -1,6 +1,6 @@
 module.exports={
-    user:"sanjeevani.avishkar2k21@gmail.com",
-    clientId:"1049749648080-bf3r2kku29tku2mecqdi8r9no8dghuma.apps.googleusercontent.com",
-    clientSecret:"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",
-    refreshToken:"1//045qreIKE778MCgYIARAAGAQSNwF-L9IrL79SRByMToyilP_AffL2Vr6rcU8cIkFyvJHMXsrkeoZtC_EL6e4okLNlJ0LYngmRWNY"
+    user:"neetendrasinghknp2019@gmail.com",
+    clientId:"82435105580-ghhf8nmbe5e5q3tqkooselilfdprv0qt.apps.googleusercontent.com",
+    clientSecret:"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",
+    refreshToken:"1//04hFrvCMEgXkzCgYIARAAGAQSNwF-L9Ir0gwQLrSJ6YTIojDDzjq8skAQ_5IwZoynTzunOSsTEIfLHFyeyx-v_roUbamnuZNC_Tg"
 }

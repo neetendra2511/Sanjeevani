@@ -88,7 +88,7 @@ export default function Test() {
                     <Link className='block p-2 m-2 font-semibold text-white bg-green-400 rounded-lg' to={`/patient/appointment/new/${selectedMarker.id}`}>Take appointment..</Link>
                 </Popup>}
                 <FullscreenControl className='top-32 left-4'></FullscreenControl>
-                <ScaleControl className='bottom-4 right-4'></ScaleControl>
+                {/* <ScaleControl className='bottom-4 right-4'></ScaleControl> */}
             </ReactMapGl>}
         </div>
     )

@@ -14,6 +14,8 @@ const {updateProfile} =require('./controllers/updateProfile')
 require('dotenv').config()
 const MONGO_URI=process.env.MONGO_URI
 
+console.log(MONGO_URI);
+
 app.use(cookieParser())   //to handle cookies
 app.use(express.json())     //to convert json strings to javascript objects
 app.use(function(req, res, next) {         //CORS           
